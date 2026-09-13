@@ -14,11 +14,11 @@ A simple and aesthetic web-based calculator that estimates your **daily protein 
 
 ---
 
-## 🛠️ Tech Stack
 
+ ## 🛠️ Tech Stack
 
 - **HTML5** – Structure  
 - **CSS3** – Styling (Glass UI)  
-- **JavaScript (Vanilla JS)** – Logic & calculations  
+- **JavaScript (Vanilla JS)** – Logic & calculations 
 
 ---
